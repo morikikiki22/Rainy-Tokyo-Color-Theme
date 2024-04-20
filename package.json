@@ -1,0 +1,21 @@
+{
+  "name": "rainy-tokyo",
+  "displayName": "Rainy Tokyo",
+  "description": "Rainy Tokyo Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rainy Tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainy Tokyo-color-theme.json"
+      }
+    ]
+  }
+}
