@@ -1,10 +1,29 @@
 {
 	"name": "Rainy Tokyo",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#2c2839",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#b38ed8",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editorLineNumber.foreground": "#dec0ff",
+		"editorLineNumber.activeForeground": "#f479ff",
+		"editor.selectionBackground": "#4e4768",
+		"editor.findMatchHighlightBackground": "#7f699c",
+		"badge.background": "#c18ad2",
+		"badge.foreground": "#ffffff",
+		"focusBorder": "#a689c1",
+		"button.background": "#4f3c5f",
+		"button.hoverBackground":"#654d79",
+		"button.foreground": "#ffffff",
+		"dropdown.background": "#4f3c5f",
+		"dropdown.foreground": "#ffffff",
+		"sideBar.background": "#282332",
+		"sideBar.foreground": "#ffffff",
+		"activityBar.background": "#282533",
+		"activityBar.foreground": "#d9b9ff",
+
+		
+		
 	},
 	"tokenColors": [
 		{
@@ -15,7 +34,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#eefa7e"
 			}
 		},
 		{
@@ -25,7 +44,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#9afff0"
 			}
 		},
 		{
@@ -55,7 +74,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#d19cff"
 			}
 		},
 		{
@@ -75,7 +94,8 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ff87d9",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -99,7 +119,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ff9a9a"
 			}
 		},
 		{
@@ -149,7 +169,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#cde4f6"
 			}
 		},
 		{
@@ -238,7 +258,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#d89eff"
 			}
 		},
 		{
